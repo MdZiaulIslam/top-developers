@@ -1,0 +1,44 @@
+.main-section{
+    margin: 0px 20px;
+}
+.dash-board{
+    display: flex;
+    background-color: #343a40;
+    height: 75px;
+    color: white;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content:space-around;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.content-header{
+    color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 10px auto;
+    margin-bottom: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: #343a40;
+}
+.content-header h6{
+    
+    width: 19%;
+    padding: 10px;
+}
+.content-header .id{
+    width: 5%;
+}
+.body-container{
+    background-color: #1a2025;
+}
+.overflow-control{
+    height: 500px;
+}
+.status{
+    border-radius: 50px;
+    background-color: #1a2025;
+    padding: 5px 20px;
+}

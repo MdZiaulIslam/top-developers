@@ -1,0 +1,51 @@
+td{
+    border: 1px solid green;
+}
+.profile-header{
+    color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 10px auto;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: #343a40;
+}
+/* .profile-header:hover{
+    background-color: #1a2025;    
+} */
+.profile-header h6{
+    font-weight: 400;
+    width: 19%;
+    padding: 10px;
+}
+.nameStyle{
+    border-radius: 50px;
+    background-color: #1a2025;
+}
+.profile-header .id{
+    width: 5%;
+}
+.profile-btn{
+    text-align: center;
+    align-items: center;
+    justify-content:space-around;
+}
+.btn-design{
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: #343a40;
+    color: white;
+    padding: 10px 20px;
+}
+.btn-design:focus{
+    outline: none;
+}
+.btn-design:hover{
+    background-color: #1a2025;
+    font-weight: 700;
+}
+.photoStyle{
+    width: 50%;
+    border: 7px solid #1a2025;
+}

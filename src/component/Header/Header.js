@@ -3,7 +3,7 @@ import './Header.css';
 const Header = () => {
     return (
         <div className="header-section">
-             <h1>Top Developers</h1>
+             <h1>Top Professionals Chart Room</h1>
         </div>
     );
 };
